@@ -1,18 +1,26 @@
-## Getting Started
+# 🏨 Hotel Reservation System (Java + MySQL)
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+A console-based hotel booking system written in Java using Object-Oriented Programming, JDBC for MySQL database connectivity, and simple user interaction via the terminal.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## 📌 Features
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- ✅ Book a room (Single / Double / Triple Bedded)
+- ✅ Cancel a booking using Booking ID
+- ✅ View all current bookings (from MySQL)
+- ✅ Check room availability by type
+- ✅ In-memory + MySQL sync at startup
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+---
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## 🛠️ Technologies Used
 
-## Dependency Management
+- Java 8+
+- JDBC (MySQL Connector/J)
+- MySQL
+- Console-based UI
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+---
+
+## 🧩 Project Structure
