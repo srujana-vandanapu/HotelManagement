@@ -1,0 +1,25 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\vanda\\OneDrive\\Desktop\\mysql-connector-j-9.3.0.jar"
+    ],
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "xprotocol",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 33060,
+            "driver": "MySQL",
+            "name": "MyDB",
+            "database": "hotelmanagement",
+            "username": "root",
+            "password": "Srujana12121",
+            "connectionTimeout": 50
+        }
+    ]
+}
